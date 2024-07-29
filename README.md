@@ -40,4 +40,3 @@ To run the project, use the following command:
 | 11   | End to end Testing |
 | 12   | Phase 2 |
 
-Add README file
